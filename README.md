@@ -1,4 +1,5 @@
-# Hi there, I'm [Daniil](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### Computer science student, IT news writer from Russia 🇷🇺
+# Hi there, I'm [samalet](https://https://vk.com/xomkax.ru/) 
+### Hello, I'm Andrey and I'm a web developer.
+I also write plugins in Java. 🇷🇺
 
 
